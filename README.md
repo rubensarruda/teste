@@ -1,2 +1,3 @@
 # teste
-Repositório de teste inicial
+
+Este arquivo mostra o uso do README
